@@ -1,6 +1,8 @@
 # omron-tcp
 
 
+[Docs RoboDK](https://docs.google.com/document/d/1Lc5LTBMNgVjAjmmiBWO0JbGHVVClJnMz1acDogzbXbs/edit)
+
 If program is generated with "Omron" postrpocessor, then too many points in NURBS makes it impossible to run program in TM Flow - it simply crashes. 
 If program is generated as "PathNode" postrpocessor - only first curve's points are being saved. 
 
