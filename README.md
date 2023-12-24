@@ -1,5 +1,25 @@
 # omron-tcp
 
+TBD:
+- [ ] folders
+- [ ] add .3dm magnet
+- [ ] electromagnet shema
+- [ ] printscreens from TM Flow
+- [ ] GIF from RoboDK
+- [ ] *several path nodes
+- [ ] *modbus Python
+- [ ] *TM Flow remote
+- [ ] *Omron Digital IO
+- [ ] *ROS
+- [x] *Head: Pen holder
+- [x] *Head: Electromagnet
+- [ ] *Head: Paste extruder
+- [ ] *Head: weaver
+- [ ] *Head: hot wire fork
+- [ ] *Head: soft gripper
+- [ ] *Head: endmill
+- [ ] *Head: led stick
+
 
 [Docs RoboDK](https://docs.google.com/document/d/1Lc5LTBMNgVjAjmmiBWO0JbGHVVClJnMz1acDogzbXbs/edit)
 
